@@ -7,7 +7,7 @@
     "require": {
         "magento/module-customer": "101.0.*||102.0.*",
         "magento/module-config": "101.0.*||101.1.*",
-        "magento/module-sales": "101.0.*||102.0.*",
+        "magento/module-sales": "102.0.*||103.0.*",
         "magento/module-directory": "100.2.*||100.3.*",
         "magento/module-payment": "100.2.*||100.3.*",
         "magento/module-checkout": "100.2.*||100.3.*",
@@ -21,7 +21,7 @@
         "magento/module-multishipping": "100.2.*||100.3.*",
         "ext-json": "*",
         "ext-simplexml": "*",
-        "php": ">=7.2.0",
+        "php": ">=7.2.0 || ^8.1",
         "league/iso3166": "^2.1",
         "msp/recaptcha": "^2.2.3"
     },
